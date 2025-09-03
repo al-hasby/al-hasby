@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Al hasby rafsanjani</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hasby&label=Profile%20views&color=0e75b6&style=flat" alt="al-hasby" /> </p>
 
 - 🔭 I’m currently Studying on **Software engineer majors on Vocational High School**
 
-- 🌱 I’m currently learning **React JS, Unity, Laravel**
+- 🌱 I’m currently learning **React JS, Unity, Laravel, Typescript**
 
 - 💬 Ask me about **JavaScipt,PHP,React JS, Laravel**
 
