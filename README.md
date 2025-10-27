@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying on **Software engineer majors on Vocational High School**
 
-- 🌱 I’m currently learning **React JS, Unity, Laravel, Typescript**
+- 🌱 I’m currently learning **React JS, Laravel, Typescript**
 
 - 💬 Ask me about **JavaScipt,PHP,React JS, Laravel**
 
