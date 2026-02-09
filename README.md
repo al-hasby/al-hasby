@@ -45,6 +45,10 @@
 </div>
 
 ###
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/viin7vgd6BwAAAAC/illit-moka-moka-illit.gif"  />
+</div>
+
 
 <div align="center">
   <a href="www.linkedin.com/in/al-hasby-rafsanjani-092a80315" target="_blank">
