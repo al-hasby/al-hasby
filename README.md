@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Al Rafsann">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Al%20Rafsann&count=7&unique=true" alt="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31h2kys4qaxw4w34xttpfdybcekq)"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Al%20Rafsann&count=7&unique=true" alt=![My spotify](https://spotify-recently-played-readme.vercel.app/api?user=31h2kys4qaxw4w34xttpfdybcekq)  />
   </a>
 </div>
 
